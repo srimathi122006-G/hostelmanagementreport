@@ -1,0 +1,21 @@
+{
+  "name": "hostelmanagementreport-backend",
+  "version": "1.0.0",
+  "description": "Backend for Hostel Complaint Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
